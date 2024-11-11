@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoverBooth/static/css/main.166cb54b.css",
+    "main.js": "/CoverBooth/static/js/main.bfe59274.js",
+    "static/js/453.5ab2a368.chunk.js": "/CoverBooth/static/js/453.5ab2a368.chunk.js",
+    "index.html": "/CoverBooth/index.html",
+    "main.166cb54b.css.map": "/CoverBooth/static/css/main.166cb54b.css.map",
+    "main.bfe59274.js.map": "/CoverBooth/static/js/main.bfe59274.js.map",
+    "453.5ab2a368.chunk.js.map": "/CoverBooth/static/js/453.5ab2a368.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166cb54b.css",
+    "static/js/main.bfe59274.js"
+  ]
+}
