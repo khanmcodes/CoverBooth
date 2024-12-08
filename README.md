@@ -21,7 +21,7 @@ CoverBooth also features a song library with 9 demo songs, allowing users to eas
 
 - **Monitor as Key Light**: Use your screen to illuminate your recording space, creating the perfect atmosphere for late-night shoots.
 
-![WhatsApp Image 2024-11-12 at 04 39 11_3ed80c14](https://github.com/user-attachments/assets/f93bdde2-b413-47a9-b86e-2cfea530309e)
+![WhatsApp Image 2024-12-08 at 05 02 09_53de7790](https://github.com/user-attachments/assets/4e7ea725-15c2-4ceb-8d37-36d54da167b1)
 
 - **Text Visibility**: Adjust the text color to ensure readability, even as you change the background color.
 
@@ -39,6 +39,12 @@ CoverBooth also features a song library with 9 demo songs, allowing users to eas
 
 ![image](https://github.com/user-attachments/assets/27c47521-cd0e-41a0-8486-d20aa86b1d2f)
 ![image](https://github.com/user-attachments/assets/33b178b1-4366-4812-88e0-916913bf021b)
+
+- **CoverBooth in action**:
+
+![1copy](https://github.com/user-attachments/assets/10b4c6d4-414a-4a33-b33a-b8b609d89299)
+![2copy](https://github.com/user-attachments/assets/5afba099-a38d-4bc9-8772-fb5daade2cdf)
+
 
 ---
 
