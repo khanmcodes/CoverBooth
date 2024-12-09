@@ -2,6 +2,8 @@
 
 ![CoverBooth Logo](https://github.com/user-attachments/assets/bff485af-d5ba-430c-817b-3d22f57e5e06)
 
+[![What is CoverBooth?](https://img.youtube.com/vi/yfgu6Jt9Bts/0.jpg)](https://www.youtube.com/watch?v=yfgu6Jt9Bts)
+
 CoverBooth is an all-in-one tool for musicians, singers, and content creators who want to practice, record, or perform with customizable lyrics displays and integrated lighting. The platform now includes a built-in song library (with a demo of 9 songs) and allows you to edit and personalize lyrics before performing. It combines a customizable lyrics display, auto-scrolling feature, lighting adjustments, and more to enhance your performance experience.
 
 ![image](https://github.com/user-attachments/assets/9fe53d97-86bc-42e6-9610-0761881bd8f8)
